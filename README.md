@@ -35,8 +35,4 @@ I build production AI systems that connect model capability with reliable workfl
 - Protect user data by default and keep secrets out of repositories
 - Measure product usefulness, not just benchmark scores
 
-## Current direction
-
-I am extracting reusable reliability and evaluation patterns from real agent products into public, reproducible projects.
-
 Based in Beijing, China.
