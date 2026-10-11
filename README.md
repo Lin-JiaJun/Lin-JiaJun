@@ -18,11 +18,14 @@ I build production AI systems that connect model capability with reliable workfl
 - An OpenAI-compatible multi-provider gateway with routing, rate limits, billing, security controls, and observability
 - An AI-native consumer product that turns user stories into lyrics, music, and shareable media
 
-## Experience & Education
+## Experience
 
-- **2025.09–Present** — Peking University
 - **2021.07–Present** — ByteDance
-- **2017.09–2021.06** — Hunan University
+
+## Education
+
+- **2025.09–Present** — Peking University, part-time master's degree
+- **2017.09–2021.06** — Hunan University, bachelor's degree
 
 ## Engineering principles
 
